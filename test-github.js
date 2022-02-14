@@ -1,4 +1,6 @@
 const test = 'son ha'
 const adj = 'big 🐔'
+console.log(`${test} ${adj}`)
 
-console.log(`${test} ${adj} changed`)
+const test2 = 'Tien Thinh first'
+console.log('SON HA')
